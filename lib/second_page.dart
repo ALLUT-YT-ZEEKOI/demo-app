@@ -8,7 +8,7 @@ class MyWidget extends StatelessWidget {
     return Container(
       padding: const EdgeInsets.all(16.0),
       child: const Text(
-        'This is the second page.',
+        'is the second page.',
         style: TextStyle(fontSize: 24),
       ),
     );
